@@ -35,6 +35,8 @@ tdd-login-project/
 │   └── user.test.js
 ├── package.json
 └── README.md
+```
+
 
 🛠 Tecnologias
 Node.js
@@ -46,11 +48,11 @@ JavaScript
 📚 Prática de TDD
 Este projeto foi desenvolvido seguindo o ciclo TDD:
 
-Red: Escreve-se o teste e ele falha.
+🔴 Red: Escreve-se o teste e ele falha.
 
-Green: Implementa-se o mínimo necessário para o teste passar.
+🟢 Green: Implementa-se o mínimo necessário para o teste passar.
 
-Refactor: Refatora-se o código mantendo os testes passando.
+🟡 Refactor: Refatora-se o código mantendo os testes passando.
 
 👥 Autor
 Nome: Jefferson Silva
@@ -58,3 +60,4 @@ Nome: Jefferson Silva
 Professora: Ana Claudia
 
 Curso: Análise e Desenvolvimento de Sistemas
+
