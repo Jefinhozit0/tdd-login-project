@@ -24,6 +24,7 @@ Este projeto demonstra a aplicação de Test-Driven Development (TDD) usando Nod
 
 ```bash
 npm install
+npm test
 ```
 ```estrutura
 tdd-login-project/
