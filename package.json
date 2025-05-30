@@ -1,0 +1,13 @@
+{
+  "name": "tdd-login-project",
+  "version": "1.0.0",
+  "description": "Projeto TDD com cadastro e login",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
