@@ -38,14 +38,14 @@ tdd-login-project/
 ├── package.json
 └── README.md
 ```
-##🛠 Tecnologias
+🛠 Tecnologias
 Node.js
 
 Jest (Framework de Testes)
 
 JavaScript
 
-##📚 Prática de TDD
+📚 Prática de TDD
 Este projeto foi desenvolvido seguindo o ciclo TDD:
 
 🔴 Red: Escreve-se o teste e ele falha.
